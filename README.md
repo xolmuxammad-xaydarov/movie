@@ -1,2 +1,2 @@
 # movie.github.io
-[Movie.tm](http://xolmuxammad-xaydarov.tm)
+[Movie.tm](http://xolmuxammad-xaydarov.tm/)
